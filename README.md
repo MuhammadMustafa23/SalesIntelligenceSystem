@@ -135,6 +135,9 @@ Full schema and analytical queries in `sql/SQL.sql`
 - Google Gemini API key ([get one free at aistudio.google.com](https://aistudio.google.com/apikey))
 - Power BI Desktop (optional, for viewing the .pbix file)
 
+
+### Dataset = https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
+
 ### 1 — Clone the repo
 
 ```bash
@@ -155,8 +158,6 @@ Run the schema script in SSMS:
 ```bash
 sql/SQL.sql
 ```
-
-Then load the cleaned data:
 
 ```bash
 python pythonscripts/load_to_sql.py
