@@ -203,7 +203,7 @@ The `.pbix` file in `powerbi/` contains a 4-page interactive report:
 ![Dashboard](assets/appscreenshots/dashboard.png)
 
 ### Ask Your Data
-![Ask Your Data](assets/appscreenshots/AskYourDdata.png)
+![Ask Your Data](assets/appscreenshots/AskYourData.png)
 
 ### Customer Personas
 ![Customer Personas](assets/appscreenshots/CustomerPersonas.png)
