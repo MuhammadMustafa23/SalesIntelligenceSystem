@@ -1,0 +1,11 @@
+pandas
+numpy
+sqlalchemy
+pyodbc
+prophet
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+google-genai

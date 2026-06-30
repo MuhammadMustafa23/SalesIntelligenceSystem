@@ -1,0 +1,11 @@
+# Raw dataset — too large for GitHub (1M rows)
+Pakistan\ Largest\ Ecommerce\ Dataset.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Streamlit cache
+.streamlit/secrets.toml
